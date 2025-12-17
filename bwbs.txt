@@ -1,4 +1,5 @@
 User-agent: bingbot
+User-agent: bingbot/2.0
 User-agent: BingPreview
 User-agent: msnbot
 User-agent: adidxbot
