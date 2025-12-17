@@ -41,11 +41,11 @@
         "frequency": "High",
         "description": "Moz SEO Crawler"
     },
-    "GoogleOther": {
-        "operator": "Google",
+    "SemrushBot": {
+        "operator": "Semrush",
         "respect": "Yes",
-        "function": "Other",
-        "frequency": "Variable",
-        "description": "Google General Crawler"
+        "function": "SEO Analytics",
+        "frequency": "High",
+        "description": "Crawler de análise de SEO e Marketing"
     }
 }
