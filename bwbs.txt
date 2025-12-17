@@ -1,5 +1,7 @@
-bingbot
-BingPreview
-msnbot
-adidxbot
-MicrosoftPreview
+[
+  "bingbot",
+  "BingPreview",
+  "msnbot",
+  "adidxbot",
+  "MicrosoftPreview"
+]
