@@ -33,5 +33,19 @@
         "function": "Preview",
         "frequency": "Medium",
         "description": "Crawler genérico de preview da Microsoft"
+    },
+    "DotBot": {
+        "operator": "Moz",
+        "respect": "Yes",
+        "function": "SEO",
+        "frequency": "High",
+        "description": "Moz SEO Crawler"
+    },
+    "GoogleOther": {
+        "operator": "Google",
+        "respect": "Yes",
+        "function": "Other",
+        "frequency": "Variable",
+        "description": "Google General Crawler"
     }
 }
