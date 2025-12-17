@@ -1,0 +1,5 @@
+User-agent: bingbot
+User-agent: BingPreview
+User-agent: msnbot
+User-agent: adidxbot
+User-agent: MicrosoftPreview
