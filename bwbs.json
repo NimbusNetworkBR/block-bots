@@ -47,5 +47,114 @@
         "function": "SEO Analytics",
         "frequency": "High",
         "description": "Crawler de análise de SEO e Marketing"
+    },
+    "Dataprovider": {
+        "operator": "Dataprovider.com",
+        "respect": "Yes",
+        "function": "Data Analysis",
+        "frequency": "Medium",
+        "description": "Crawler de coleta de dados e inteligência de negócios"
+    },
+    "DuckDuckBot": {
+        "operator": "DuckDuckGo",
+        "respect": "Yes",
+        "function": "Search Engine",
+        "frequency": "High",
+        "description": "Crawler de busca do DuckDuckGo"
+    },
+    "GPTBot": {
+        "operator": "OpenAI",
+        "respect": "Yes",
+        "function": "LLM Training",
+        "frequency": "High",
+        "description": "Crawler principal da OpenAI para treinar ChatGPT"
+    },
+    "ChatGPT-User": {
+        "operator": "OpenAI",
+        "respect": "Yes",
+        "function": "Live Browsing",
+        "frequency": "Variable",
+        "description": "Bot usado quando um usuário pede para o ChatGPT ler um link em tempo real"
+    },
+    "OAI-SearchBot": {
+        "operator": "OpenAI",
+        "respect": "Yes",
+        "function": "Search Prototype",
+        "frequency": "Variable",
+        "description": "Crawler do protótipo de busca da OpenAI (SearchGPT)"
+    },
+    "ClaudeBot": {
+        "operator": "Anthropic",
+        "respect": "Yes",
+        "function": "LLM Training",
+        "frequency": "Medium",
+        "description": "Crawler principal da Anthropic (Claude AI)"
+    },
+    "CCBot": {
+        "operator": "Common Crawl",
+        "respect": "Yes",
+        "function": "Dataset Archive",
+        "frequency": "Very High",
+        "description": "Crawler massivo usado como base para treinar quase TODAS as IAs (GPT, Llama, etc)"
+    },
+    "Google-Extended": {
+        "operator": "Google",
+        "respect": "Yes",
+        "function": "LLM Training",
+        "frequency": "Variable",
+        "description": "Token específico do Google para treinamento de IA (Gemini/Bard)"
+    },
+    "Applebot-Extended": {
+        "operator": "Apple",
+        "respect": "Yes",
+        "function": "LLM Training",
+        "frequency": "Medium",
+        "description": "Crawler da Apple focado em treinamento de IA (Apple Intelligence)"
+    },
+    "PerplexityBot": {
+        "operator": "Perplexity AI",
+        "respect": "Yes",
+        "function": "AI Search",
+        "frequency": "High",
+        "description": "Crawler do motor de busca Perplexity"
+    },
+    "Bytespider": {
+        "operator": "ByteDance",
+        "respect": "No",
+        "function": "Data Scraping",
+        "frequency": "Aggressive",
+        "description": "Crawler agressivo da ByteDance (TikTok/Douyin)"
+    },
+    "FacebookBot": {
+        "operator": "Meta",
+        "respect": "Yes",
+        "function": "Crawling",
+        "frequency": "High",
+        "description": "Crawler da Meta, usado para coletar dados para Llama e Facebook"
+    },
+    "Amazonbot": {
+        "operator": "Amazon",
+        "respect": "Yes",
+        "function": "Indexing",
+        "frequency": "Medium",
+        "description": "Crawler da Amazon, usado para Alexa e treinamento do modelo Titan"
+    },
+    "ImagesiftBot": {
+        "operator": "The Hive",
+        "respect": "Yes",
+        "function": "Image Scraping",
+        "frequency": "Medium",
+        "description": "Crawler focado em indexar imagens para treinamento visual"
+    },
+    "cohere-ai": {
+        "operator": "Cohere",
+        "respect": "Yes",
+        "function": "LLM Training",
+        "frequency": "Medium",
+        "description": "Crawler da Cohere para modelos empresariais"
     }
 }
+
+Bingbot (Rastreador de busca da Microsoft)
+SemrushBot (Rastreador de SEO da Semrush)
+DotBot (Rastreador de SEO da Moz/OpenSiteExplorer)
