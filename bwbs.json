@@ -1,8 +1,37 @@
-[
-  "bingbot",
-  "bingbot/2.0",
-  "BingPreview",
-  "msnbot",
-  "adidxbot",
-  "MicrosoftPreview"
-]
+{
+    "bingbot": {
+        "operator": "Microsoft",
+        "respect": "Yes",
+        "function": "Search Engine",
+        "frequency": "High",
+        "description": "Crawler principal do Bing"
+    },
+    "BingPreview": {
+        "operator": "Microsoft",
+        "respect": "Yes",
+        "function": "Preview",
+        "frequency": "Medium",
+        "description": "Gerador de preview de links do Bing"
+    },
+    "msnbot": {
+        "operator": "Microsoft",
+        "respect": "Yes",
+        "function": "Search Engine",
+        "frequency": "Medium",
+        "description": "Crawler antigo da Microsoft"
+    },
+    "adidxbot": {
+        "operator": "Microsoft",
+        "respect": "Yes",
+        "function": "Ads",
+        "frequency": "Medium",
+        "description": "Crawler de verificação de anúncios"
+    },
+    "MicrosoftPreview": {
+        "operator": "Microsoft",
+        "respect": "Yes",
+        "function": "Preview",
+        "frequency": "Medium",
+        "description": "Crawler genérico de preview da Microsoft"
+    }
+}
