@@ -97,13 +97,6 @@
         "frequency": "Very High",
         "description": "Crawler massivo usado como base para treinar quase TODAS as IAs (GPT, Llama, etc)"
     },
-    "Google-Extended": {
-        "operator": "Google",
-        "respect": "Yes",
-        "function": "LLM Training",
-        "frequency": "Variable",
-        "description": "Token específico do Google para treinamento de IA (Gemini/Bard)"
-    },
     "Applebot-Extended": {
         "operator": "Apple",
         "respect": "Yes",
