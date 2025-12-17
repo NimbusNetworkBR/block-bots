@@ -1,0 +1,5 @@
+bingbot
+BingPreview
+msnbot
+adidxbot
+MicrosoftPreview
