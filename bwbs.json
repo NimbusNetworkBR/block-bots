@@ -118,13 +118,6 @@
         "frequency": "Aggressive",
         "description": "Crawler agressivo da ByteDance (TikTok/Douyin)"
     },
-    "FacebookBot": {
-        "operator": "Meta",
-        "respect": "Yes",
-        "function": "Crawling",
-        "frequency": "High",
-        "description": "Crawler da Meta, usado para coletar dados para Llama e Facebook"
-    },
     "Amazonbot": {
         "operator": "Amazon",
         "respect": "Yes",
